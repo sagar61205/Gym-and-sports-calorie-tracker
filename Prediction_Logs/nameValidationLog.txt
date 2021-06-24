@@ -1,0 +1,105 @@
+2020-02-15/15:57:44		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2020-02-15/15:59:05		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2020-02-15/15:59:28		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2020-02-15/18:55:51		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2020-02-15/18:55:51		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120020.csv
+2020-02-15/18:55:51		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120065.csv
+2020-02-15/18:55:51		Valid File name!! File moved to GoodRaw Folder :: visibility_08012019_120066.csv
+2020-02-15/18:55:51		Invalid File Name!! File moved to Bad Raw Folder :: visibility_082019_120021.csv
+2020-04-17/20:22:58		Valid File name!! File moved to GoodRaw Folder :: visibility_08012014_120016.csv
+2020-04-17/20:22:58		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120020.csv
+2020-04-17/20:22:58		Valid File name!! File moved to GoodRaw Folder :: visibility_08012018_120065.csv
+2020-04-17/20:22:58		Valid File name!! File moved to GoodRaw Folder :: visibility_08012019_120066.csv
+2020-04-17/20:22:58		Invalid File Name!! File moved to Bad Raw Folder :: visibility_082019_120021.csv
+2020-05-15/19:29:20		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2020-05-15/19:29:34		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2020-05-15/19:46:40		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2020-05-15/19:46:40		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2020-05-15/19:49:07		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2020-05-15/19:49:07		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2020-05-15/19:54:01		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2020-05-15/19:54:01		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-05-20/13:10:29		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-05-20/13:10:29		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-05-20/13:14:14		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-05-20/13:14:14		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-05-20/13:25:06		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-05-20/13:25:06		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-05-23/01:41:14		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-05-23/01:41:15		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-05-23/01:52:31		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-05-23/01:52:31		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-05-23/01:53:58		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-05-23/01:53:58		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-05-23/02:07:59		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-05-23/02:07:59		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-05-23/02:15:56		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-05-23/02:15:56		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-05-23/02:30:58		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-05-23/02:30:58		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-22/23:15:38		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-22/23:15:39		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-22/23:18:59		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-22/23:18:59		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-22/23:26:57		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-22/23:26:57		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-22/23:27:06		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-22/23:27:06		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-22/23:27:23		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-22/23:27:23		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-22/23:32:13		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-22/23:32:13		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-22/23:34:33		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-22/23:34:33		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-22/23:37:43		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-22/23:37:43		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/02:05:38		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/02:05:39		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/02:22:12		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/02:22:12		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/02:22:50		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/02:22:50		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/02:47:53		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/02:47:53		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/02:50:58		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/02:50:58		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/03:13:32		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/03:13:32		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/04:03:40		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/04:03:40		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/04:35:15		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/04:35:15		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/04:40:16		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/04:40:16		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/05:28:44		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/05:28:44		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/05:34:32		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/05:34:32		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/06:41:20		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/InputFile.csv'
+2021-06-23/06:43:08		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/06:43:08		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/06:43:10		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/06:43:10		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/06:43:12		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/06:43:12		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/06:44:19		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/06:44:19		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/06:44:49		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/06:44:49		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/06:45:06		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/06:45:06		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/07:05:17		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/07:05:17		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/07:07:14		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/visibility_08012014_120016.csv'
+2021-06-23/07:07:32		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/visibility_08012014_120016.csv'
+2021-06-23/07:10:15		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/FitBit_15052019_1704.csv'
+2021-06-23/07:11:01		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/FitBit_15052019_1704.csv'
+2021-06-23/07:11:39		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/07:11:39		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/07:11:40		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/07:11:40		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/07:11:54		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/07:11:54		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
+2021-06-23/07:12:33		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/FitBit_15052019_1704.csv'
+2021-06-23/07:13:34		Invalid File Name!! File moved to Bad Raw Folder :: FitBit_15052019_1806.csv
+2021-06-23/07:13:34		Valid File name!! File moved to GoodRaw Folder :: FitBit_16052019_120444.csv
