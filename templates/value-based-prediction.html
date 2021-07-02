@@ -1,0 +1,178 @@
+{% extends 'layout.html' %} {% block body %}
+
+<style>
+
+    html body {
+      background-color: rgb(206, 206, 228);
+
+      
+  }
+
+  
+</style>
+<!--Form Section-->
+<br /><br />
+<h2 style="text-align: center; margin: 0px; color: black">
+  <b>Find out the calories burnt after various activities such as weightlifting, running and swimming:</b>
+</h2>
+<br />
+
+<div
+  style="
+    width: 350px;
+    height: 50rem;
+    margin: 0px auto;
+    color: black;
+    border-radius: 25px;
+    padding: 10px 10px;
+  "
+>
+  <form method="POST" action="{{ url_for('value_prediction_result') }}">
+    <div class="form-group">
+      <label for="Total Steps" style="font-size: 17px"><b>Total Steps</b></label>
+      <input
+        type="number"
+        class="form-control"
+        id="Total Steps"
+        name="total"
+        placeholder="Enter the value (example:11000)"
+        style="font-weight: bold"
+        required
+      />
+    </div>
+    <div class="form-group">
+      <label for="Very Active Distance" style="font-size: 17px"
+        ><b>Very Active Distance</b></label
+      >
+      <input
+        type="number"
+        class="form-control"
+        id="Very Active Distance"
+        name="veryd"
+        placeholder="Enter the value (example:3)"
+        style="font-weight: bold"
+        required
+      />
+    </div>
+
+    <div class="form-group">
+      <label for="Moderately Active Distance" style="font-size: 17px"><b>Moderately Active Distance</b></label>
+      <input
+        type="number"
+        step="0.01"
+        class="form-control"
+        id="Moderately Active Distance"
+        name="moderated"
+        placeholder="Enter the value (example:0.5)"
+        style="font-weight: bold"
+        required
+      />
+    </div>
+    <div class="form-group">
+      <label for="Light Active Distance" style="font-size: 17px"><b>Light Active Distance</b></label>
+      <input
+        type="number"
+        step="0.01"
+        class="form-control"
+        id="Light Active Distance"
+        name="lightd"
+        placeholder="Enter the value (example:3.5)"
+        style="font-weight: bold"
+        required
+      />
+    </div>
+    <div class="form-group">
+      <label for="Very Active Minutes" style="font-size: 17px"><b>Very Active Minutes</b></label>
+      <input
+        type="number"
+        step="0.01"
+        class="form-control"
+        id="Very Active Minutes"
+        name="verym"
+        placeholder="Enter the value (example:39)"
+        style="font-weight: bold"
+        required
+      />
+    </div>
+    <div class="form-group">
+      <label for="Fairly Active Minutes" style="font-size: 17px"><b>Fairly Active Minutes</b></label>
+      <input
+        type="number"
+        step="0.01"
+        class="form-control"
+        id="Fairly Active Minutes"
+        name="fairlym"
+        placeholder="Enter the value (example:29)"
+        style="font-weight: bold"
+        required
+      />
+    </div>
+    <div class="form-group">
+      <label for="Lightly Active Minutes" style="font-size: 17px"><b>Lightly Active Minutes</b></label>
+      <input
+        type="number"
+        step="0.01"
+        class="form-control"
+        id="Lightly Active Minutes"
+        name="lightm"
+        placeholder="Enter the value (example:250)"
+        style="font-weight: bold"
+        required
+      />
+    </div>
+    <div class="form-group">
+      <label for="Sedentary Minutes" style="font-size: 17px"><b>Sedentary Minutes</b></label>
+      <input
+        type="number"
+        step="0.01"
+        class="form-control"
+        id="Sedentary Minutes"
+        name="sedentarym"
+        placeholder="Enter the value (example:30)"
+        style="font-weight: bold"
+        required
+      />
+    </div>
+
+<!--    <div class="form-group">-->
+<!--      <label for="State" style="font-size: 17px "><b>State</b></label>-->
+<!--      <select-->
+<!--        onchange="print_city('state', this.selectedIndex);"-->
+<!--        id="sts"-->
+<!--        name="stt"-->
+<!--        class="form-control"-->
+<!--        style="font-weight: bold; color: black;"-->
+<!--        -->
+<!--        required-->
+<!--      ></select>-->
+<!--      <br />-->
+<!--      <label for="City" style="font-size: 17px"><b>City</b></label>-->
+<!--      <select-->
+<!--        id="state"-->
+<!--        class="form-control"-->
+<!--        name="city"-->
+<!--        style="font-weight: bold; color: black;"-->
+<!--        required-->
+<!--      ></select>-->
+<!--      <script language="javascript">-->
+<!--        print_state("sts");-->
+<!--      </script>-->
+<!--    </div>-->
+
+    <div class="d-flex justify-content-center">
+      <button
+        type="submit"
+        class="btn btn-info"
+        style="color: black; font-weight: bold; width: 130px; height:50px; border-radius:12px; font-size: 21px;"
+      >
+        Predict
+      </button>
+    </div>
+  </form>
+</div>
+
+
+
+<!-- Form section -->
+
+{% endblock %}
