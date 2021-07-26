@@ -1,18 +1,28 @@
-## Welcome to GitHub Pages
+### Gym-and-sports-calorie-tracker
 
-You can use the [editor on GitHub](https://github.com/sagar61205/Fitbit-calories-prediction/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This application calculates calories burnt by weighing in various parameters such as TotalSteps, TotalDistance, VeryActiveDistance etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Features:
+1.	Id: The customer ID
+2.	ActivityDate: The date for which the activity is getting tracked.
+3.	TotalSteps:  Total Steps taken on that day.
+4.	TotalDistance: Total distance covered.
+5.	TrackerDistance: Distance as per the tracker
+6.	LoggedActivitiesDistance: Logged 
+7.	VeryActiveDistance: The distance for which the user was the most active. 
+8.	ModeratelyActiveDistance: The distance for which the user was moderately active.
+9.	LightActiveDistance: The distance for which the user was the least active.
+10.	SedentaryActiveDistance: The distance for which the user was almost inactive.
+11.	VeryActiveMinutes: The number of minutes for the most activity.
+12.	FairlyActiveMinutes: The number of minutes for moderately activity.
+13.	LightlyActiveMinutes: The number of minutes for the least activity
+14.	SedentaryMinutes: The number of minutes for almost no activity
+15.	Calories(Target): The calories burnt. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Application interface:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
 ### Header 3
 
 - Bulleted
