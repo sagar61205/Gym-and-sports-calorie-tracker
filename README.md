@@ -1,6 +1,12 @@
 # Gym and sports calorie tracker
-
 A simple ML based website which calculates calculates calories burnt by weighing in various parameters such as TotalSteps, TotalDistance, VeryActiveDistance etc.
+
+## Application interface screenshot:
+![Screenshot 2021-07-05 020940](https://user-images.githubusercontent.com/5305547/126999828-44299d61-5398-4fb7-860f-6d6dd7af8db6.png)
+
+
+## Application screenshot showing what the application does:
+![Screenshot 2021-07-05 021054](https://user-images.githubusercontent.com/5305547/127000193-452f106b-849c-445a-af4b-001815aca210.png)
 
 # Features:
 1.	Id: The customer ID
@@ -45,13 +51,7 @@ File-based-prediction  ==> Click in 'default file prediction' to see the predict
 
 
 
-## Application interface screenshot:
-![Screenshot 2021-07-05 020940](https://user-images.githubusercontent.com/5305547/126999828-44299d61-5398-4fb7-860f-6d6dd7af8db6.png)
-
-## Application screenshot showing how the number of calories affect our health:
-![Screenshot 2021-07-05 021054](https://user-images.githubusercontent.com/5305547/127000193-452f106b-849c-445a-af4b-001815aca210.png)
-
-## Application screenshot for the 'About'section.
+## Application screenshot for the 'About' section.
 ![Screenshot 2021-07-05 021125](https://user-images.githubusercontent.com/5305547/127006780-e9db9aab-a120-4e03-914c-0b6c4e60117e.png)
 ## Application screenshot for the health benefits of calorie tracking:
 ![Screenshot 2021-07-05 021147](https://user-images.githubusercontent.com/5305547/127006914-98cb98d5-9f91-44cf-ab01-7890a3e3cc9d.png)
@@ -61,11 +61,8 @@ File-based-prediction  ==> Click in 'default file prediction' to see the predict
 
 ## Application screenshot for the important information section:
 ![Screenshot 2021-07-05 021229](https://user-images.githubusercontent.com/5305547/127007130-bef97d9b-bb39-47e1-8c31-cbfbdc27869d.png)
-## Application screenshots for value file prediction.
-![Screenshot 2021-07-05 021247](https://user-images.githubusercontent.com/5305547/127007612-00be77fa-a7f2-4382-9608-4a32c75af513.png)
-![Screenshot 2021-07-05 021344](https://user-images.githubusercontent.com/5305547/127007630-5b6d49ac-97f0-4709-ac8d-ddd4df790f64.png)
-## Predection result page:
-![Screenshot 2021-07-05 021515](https://user-images.githubusercontent.com/5305547/127007819-c76d5d03-0beb-455f-8427-39792ddc2587.png)
 
-## Prediction - How to?:
+## Prediction:
 ![fitbit gif](https://user-images.githubusercontent.com/5305547/127011833-bf847429-45ca-4909-9020-4403d4e4a3bc.gif)
+
+
