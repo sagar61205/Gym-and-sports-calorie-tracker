@@ -43,7 +43,7 @@ For the calories tracking application, the user can input the data and the appli
 ## DEPLOYMENT 🚀
 Deployment is done using deploy branch
 This website is deployed at Heroku
-You can access it here
+You can access it here: https://gym-and-sports-calorie-tracker.herokuapp.com/
 Note: The website may take a minute to load sometimes, as the server may be in hibernate state.
 How to use
 Value-based-prediction ==> enter the corresponding values and it will fetch the number of calories burnt.
