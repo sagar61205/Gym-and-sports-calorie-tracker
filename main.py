@@ -136,4 +136,4 @@ def trainRouteClient():
     return Response("Training successfull!!")
 
 if __name__ == "__main__":
-    app.run(port=process.env.PORT)
+    app.run(host=gym-and-sports-calorie-tracker.herokuapp.com, port=process.env.PORT)
