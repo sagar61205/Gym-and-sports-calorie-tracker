@@ -29,7 +29,7 @@ def batch_prediction():
     return render_template('batch_prediction.html')
 
 
-fitbit_model_path = 'models\XGBoost2\XGBoost2.sav'
+fitbit_model_path = 'XGBoost2.sav'
 fitbit_model = pickle.load(
     open(fitbit_model_path, 'rb'))
 
