@@ -137,4 +137,4 @@ def trainRouteClient():
 
 
 if __name__ == "__main__":
-    app.run --host=gym-and-sports-calorie-tracker.herokuapp.com --port=146.196.34.88
+    app.run(host='0.0.0.0', port=8080)
