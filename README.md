@@ -2,7 +2,7 @@
 A simple ML based website which calculates calculates calories burnt by weighing in various parameters such as TotalSteps, TotalDistance, VeryActiveDistance etc.
 
 ## Application interface screenshot:
-![Screenshot 2021-07-05 020940](https://user-images.githubusercontent.com/5305547/126999828-44299d61-5398-4fb7-860f-6d6dd7af8db6.png)
+![Screenshot 2021-07-29 081228](https://user-images.githubusercontent.com/5305547/127722922-e64f813f-13a8-4310-a85b-a1f0b730d278.png)
 
 
 ## Application screenshot showing what the application does:
