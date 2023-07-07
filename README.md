@@ -42,7 +42,7 @@ For the calories tracking application, the user can input the data and the appli
 
 ## DEPLOYMENT 🚀
 Deployment is done using deploy branch.<br/>
-This website is deployed at Heroku.<br/>
+This website is deployed at Heroku: https://sagar61205.github.io/Gym-and-sports-calorie-tracker/ <br/>
 How to use? <br/>
 Value-based-prediction ==> enter the corresponding values and it will fetch the number of calories burnt.<br/>
 File-based-prediction  ==> Click in 'default file prediction' to see the prediction on the already trained model OR Enter an absolute file path and clixk on 'Custom file predict'.
